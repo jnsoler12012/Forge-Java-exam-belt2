@@ -1,4 +1,4 @@
-# Bootcamp Coding Dojo Java - exam belt 3 activity
+# Bootcamp Coding Dojo Java - exam belt 2 activity
 
 <p align="center">
 <img src="https://github.com/jnsoler12012/CureCore-website-GitPage/assets/63087709/cdcffdd2-28a1-4499-b58c-45df86427ecc">
